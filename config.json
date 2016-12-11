@@ -1,0 +1,9 @@
+{
+    "aws": {
+        "bucket": "[your bucket name here, must be unique]",
+        "region": "[your region here e.g. us-west-2]",
+        "redirectHost": "[your redirect host here e.g. foo.com]",
+        "indexDoc": "[index page, default index.html]",
+        "errorDoc": "[optional error doc e.g. error.html, default none]"
+    }
+}
