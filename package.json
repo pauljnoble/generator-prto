@@ -8,7 +8,7 @@
     "deploy": "node support/create-bucket.js && gulp publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/pauljnoble/generator-prto.git",
   "keyword": "generator-prto",
   "author": "Paul Noble",
   "license": "WTFPL",
